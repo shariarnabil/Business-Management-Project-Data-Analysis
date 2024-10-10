@@ -19,13 +19,7 @@ Power BI Desktop: Download the latest version.
 
 After installing Power BI Desktop, you can open the .pbix file to explore the dashboard.
 
-Usage
-Clone the repository to your local machine:
 
-bash
-Copy code
-git clone https://github.com/your-username/hr-analytics-atliq.git
-Open the HR Analytics Atliq_masked.pbix file using Power BI Desktop.
 
 Explore the interactive dashboards and filters to gain insights into HR data.
 
